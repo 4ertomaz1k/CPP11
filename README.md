@@ -1,0 +1,1 @@
+reminder by С++11
